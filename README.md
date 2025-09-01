@@ -88,6 +88,13 @@ An AI-powered system that **analyzes announcements in real-time**, assigns a **C
 - **Integrity:** SHA-256 hashing  
 
 ---
+<img width="1874" height="816" alt="image" src="https://github.com/user-attachments/assets/f8891546-5884-4d54-8b01-bf7eaa949548" />
+<img width="1877" height="778" alt="image" src="https://github.com/user-attachments/assets/643ddc9e-d063-4e6f-bc8c-8f1018e05ee7" />
+<img width="1895" height="852" alt="image" src="https://github.com/user-attachments/assets/93c55ddb-6777-4f53-a70a-a23eb987aec4" />
+<img width="1841" height="755" alt="image" src="https://github.com/user-attachments/assets/e1040acf-281b-4945-947b-0f6c8c04d3d3" />
+<img width="1839" height="745" alt="image" src="https://github.com/user-attachments/assets/c0ef9cf4-0dcd-4593-aca3-7cb673a233e3" />
+
+
 
 ## ⚙️ How to Run
 ```bash
