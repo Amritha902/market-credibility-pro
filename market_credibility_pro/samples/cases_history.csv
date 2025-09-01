@@ -1,0 +1,7 @@
+date,company,sector,ann_type,claimed_deal_cr,status,outcome_days
+2025-02-10,MedCore,Pharma,Approval,140,Verified,28
+2025-03-15,MedCore,Pharma,Approval,220,Pending,180
+2025-04-18,UrbanWays,Infra,Order Win,5200,Verified,45
+2025-05-05,UrbanWays,Infra,Order Win,900,Retracted,12
+2025-05-20,NetNova,IT/Tech,Partnership,110,Verified,60
+2025-06-01,NetNova,IT/Tech,Partnership,0,Pending,90

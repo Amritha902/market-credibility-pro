@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Environments / IDE
+.venv/
+venv/
+env/
+.vscode/
+.idea/
+*.code-workspace
+
+# Data & logs (runtime outputs)
+*.log
+*.jsonl
+evidence_log.jsonl
+samples/ingested.csv
+
+# Archives / binaries
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.pkl
+*.sav
+*.sqlite
+
+# Streamlit / cache
+.streamlit/
+**/.cache/
