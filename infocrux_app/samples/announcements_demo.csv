@@ -1,5 +1,13 @@
 id,date,company,sector,ann_type,headline,body,claimed_deal_cr,counterparty,timeline_months,has_attachment
-DEMO-0001,2025-08-18,Nova Pharma,Pharma,Approval,Breakthrough drug wins fast-track nod,Company announces fast-track approval by National Drug Authority; rollout in 3 months.,450,National Drug Authority,3,1
-DEMO-0002,2025-08-10,MegaBuild Infra,Infra,Order,Mega order bagged for ₹5000 cr highway,Company claims project award; execution over 24 months.,5000,Ministry of Transport,24,1
-DEMO-0003,2025-08-12,NextGen IT,IT,Partnership,Exclusive AI partnership announced,Strategic AI collaboration with Global Tech Inc to transform solutions.,120,Global Tech Inc,6,0
-DEMO-0004,2025-08-15,StartBio,Pharma,Approval,Unprecedented nod expected soon,Rumor suggests nod; details awaited; no counterparty named.,300,,0,0
+ANN-2001,2025-08-21,Nova Pharma,Pharma,Approval,Breakthrough drug wins fast-track nod,Fast-track approval by National Drug Authority; rollout in 3 months.,120.0,National Drug Authority,3,1
+ANN-2002,2025-08-20,BioHeal,Pharma,Approval,Phase-2 trial clearance,Permission granted to commence Phase-2 clinical study; enrollment within 1 month.,40.0,National Drug Authority,1,1
+ANN-2003,2025-08-19,Mega Infra,Infra,Project,"₹5,000 cr expressway LoA",LoA received for expressway package; commissioning within 6 months.,5000.0,,6,0
+ANN-2004,2025-08-18,UrbanBuild,Infra,Project,Smart city redevelopment MoU,"MoU signed; value expected ~₹2,000 cr; execution timeline to be decided.",2000.0,Metro Development Corp,0,0
+ANN-2005,2025-08-17,NextSoft,IT,Partnership,Strategic AI partnership announced,Long-term strategic AI partnership to accelerate innovation; details confidential; go-live soon.,0.0,GlobalTech AI,0,0
+ANN-2006,2025-08-16,Green Energy Co,Energy,Funding,Green bond backing for solar expansion,Backed by leading lenders; tranche-I to close in 2 months; for 200MW expansion.,800.0,Consortium of Banks,2,1
+ANN-2007,2025-08-15,BigBank,Finance,Acquisition,Acquires minority stake in FinServCo,Bank to acquire 9.9% in FinServCo subject to regulatory approval; closing in 4 months.,950.0,FinServCo Ltd,4,1
+ANN-2008,2025-08-14,FreshFoods,Consumer,Distribution,National distribution tie-up,Enters national distribution with StarRetail chain; phased rollout in 2 months.,120.0,StarRetail,2,0
+ANN-2009,2025-08-13,TeleOne,Telecom,Regulatory,Wins 3.5GHz spectrum in auction,Allotted 40MHz nationwide; service launch within 6 months.,7200.0,DOT,6,1
+ANN-2010,2025-08-12,SteelWorks,Metals,Project,2 MTPA capacity expansion plan,Brownfield expansion; EPC partner to be finalized; staged commissioning over 12 months.,3200.0,,12,0
+ANN-2011,2025-08-11,AutoMakers,Auto,Partnership,Joint venture for EV powertrains,JV with ElectroDrive for EV motors; first pilot in 5 months.,600.0,ElectroDrive GmbH,5,1
+ANN-2012,2025-08-10,CityGas,Energy,Regulatory,City gas license extension granted,License extended by 5 years; compliance certificate attached.,0.0,Energy Regulator,0,1

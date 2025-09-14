@@ -1,0 +1,5 @@
+advisor_id,name,status,regulator
+IA123456,Alpha Advisory LLP,Active,SEBI
+IA654321,Beacon Research,Active,SEBI
+IA999999,Fake Alpha Advisory,Revoked,SEBI
+MB000111,Prime Merchant Bankers,Active,SEBI

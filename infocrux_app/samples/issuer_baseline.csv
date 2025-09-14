@@ -1,0 +1,13 @@
+company,sector,median_claim_cr
+Nova Pharma,Pharma,100.0
+BioHeal,Pharma,60.0
+Mega Infra,Infra,1500.0
+UrbanBuild,Infra,1200.0
+NextSoft,IT,0.0
+Green Energy Co,Energy,600.0
+BigBank,Finance,900.0
+FreshFoods,Consumer,100.0
+TeleOne,Telecom,7000.0
+SteelWorks,Metals,2500.0
+AutoMakers,Auto,500.0
+CityGas,Energy,50.0

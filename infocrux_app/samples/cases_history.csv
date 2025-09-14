@@ -1,5 +1,11 @@
-sector,ann_type,claim_bucket,outcome,resolution_days
-Pharma,Approval,100-500,Verified,30
-Pharma,Approval,100-500,Retracted,180
-Infra,Order,2000-6000,Verified,45
-IT,Partnership,50-200,Pending,90
+id,sector,ann_type,claimed_deal_cr_bucket,outcome,days_to_outcome
+CASE-101,Pharma,Approval,0-200,Verified,30
+CASE-102,Pharma,Approval,0-200,Pending,120
+CASE-103,Infra,Project,2000+,Retracted,60
+CASE-104,IT,Partnership,0,Verified,21
+CASE-105,Energy,Funding,200-1000,Verified,18
+CASE-106,Finance,Acquisition,500-1000,Pending,75
+CASE-107,Consumer,Distribution,0-200,Verified,28
+CASE-108,Telecom,Regulatory,5000+,Verified,45
+CASE-109,Metals,Project,2000+,Pending,150
+CASE-110,Auto,Partnership,200-1000,Verified,40
