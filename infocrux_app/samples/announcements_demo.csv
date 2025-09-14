@@ -1,0 +1,5 @@
+id,date,company,sector,ann_type,headline,body,claimed_deal_cr,counterparty,timeline_months,has_attachment
+DEMO-0001,2025-08-18,Nova Pharma,Pharma,Approval,Breakthrough drug wins fast-track nod,Company announces fast-track approval by National Drug Authority; rollout in 3 months.,450,National Drug Authority,3,1
+DEMO-0002,2025-08-10,MegaBuild Infra,Infra,Order,Mega order bagged for ₹5000 cr highway,Company claims project award; execution over 24 months.,5000,Ministry of Transport,24,1
+DEMO-0003,2025-08-12,NextGen IT,IT,Partnership,Exclusive AI partnership announced,Strategic AI collaboration with Global Tech Inc to transform solutions.,120,Global Tech Inc,6,0
+DEMO-0004,2025-08-15,StartBio,Pharma,Approval,Unprecedented nod expected soon,Rumor suggests nod; details awaited; no counterparty named.,300,,0,0
