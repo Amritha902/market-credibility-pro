@@ -106,18 +106,20 @@ infocrux_app/data/advisor_registry.csv
 
 PDFs under infocrux_app/samples/
 
-## 🚀 Quickstart
+### 🚀 Quickstart
+
 Follow these simple steps to get the application running locally.
-'''bash
+
+```bash
 # Clone the repository
-git clone https://github.com/Amritha902/market-credibility-pro.git
+git clone [https://github.com/Amritha902/market-credibility-pro.git](https://github.com/Amritha902/market-credibility-pro.git)
 cd market-credibility-pro
 
-# (Windows) create & activate venv
+# (Windows) create and activate a virtual environment
 python -m venv .venv
 .venv\Scripts\activate
 
-# (macOS/Linux) create & activate venv
+# (macOS/Linux) create and activate a virtual environment
 python3 -m venv .venv
 source .venv/bin/activate
 
@@ -126,9 +128,6 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run infocrux_app/app.py
-Open the URL shown in your terminal (usually http://localhost:8501).
-'''
-
 ## 🧭 How to Demo (5–7 min flow)
 📥 Fetch & Ingest (BSE): Set the number of announcements to fetch, then click "Accept & Score."
 
