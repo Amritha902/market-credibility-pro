@@ -1,4 +1,5 @@
 # 📊 InfoCrux — Announcement Credibility Pro (SEBI Hackathon)
+### link : https://infocrux.streamlit.app/
 Theme: Fraud Prevention — Protecting retail investors from misleading / fabricated corporate announcements with explainable AI.
 InfoCrux is an AI-powered tool designed to combat fraud in the financial markets. It assigns a Credibility Score (0–100) to corporate announcements, providing detailed explanations and corroboration checks to protect retail investors from pump-and-dump schemes and mispriced securities.
 
