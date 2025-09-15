@@ -1,3 +1,4 @@
+
 streamlit==1.37.1
 pandas==2.2.2
 numpy==1.26.4
@@ -7,9 +8,5 @@ beautifulsoup4==4.12.3
 lxml==5.2.2
 requests==2.32.3
 pydantic==2.8.2
-pydantic-core==2.20.1
 PyPDF2==3.0.1
 rapidfuzz==3.9.7
-# build/install safety on Streamlit Cloud
-setuptools<81
-wheel
