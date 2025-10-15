@@ -1,11 +1,12 @@
-# --- Core Frameworks ---
-streamlit>=1.36
+# --- Streamlit Cloud Deployment Optimized Requirements ---
+
+streamlit
 pandas
 numpy
 altair
 plotly
 
-# --- AI + Utilities ---
+# AI / Web / Utils
 supabase
 google-generativeai
 python-dotenv
@@ -17,10 +18,12 @@ python-docx
 python-pptx
 pillow
 pytesseract
-scikit-learn
 rapidfuzz
 lxml
 tqdm
 rich
 mdurl
 pygments
+
+# --- Optional lightweight ML support ---
+scikit-learn
