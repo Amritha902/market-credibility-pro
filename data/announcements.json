@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Reliance announces new green energy project",
+    "date": "2025-09-23",
+    "risk_score": 30,
+    "link": "https://www.reliance.com/announcement"
+  },
+  {
+    "title": "TCS quarterly results below expectations",
+    "date": "2025-09-22",
+    "risk_score": 70,
+    "link": "https://www.tcs.com/q2results"
+  },
+  {
+    "title": "HDFC launches new retail banking initiative",
+    "date": "2025-09-21",
+    "risk_score": 40,
+    "link": "https://www.hdfc.com/initiative"
+  }
+]

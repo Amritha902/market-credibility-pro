@@ -1,0 +1,6 @@
+[
+  { "symbol": "RELIANCE.BSE", "qty": 10, "avg_cost": 2450 },
+  { "symbol": "TCS.BSE", "qty": 5, "avg_cost": 3300 },
+  { "symbol": "HDFC.BSE", "qty": 8, "avg_cost": 1500 },
+  { "symbol": "INFY.BSE", "qty": 12, "avg_cost": 1420 }
+]

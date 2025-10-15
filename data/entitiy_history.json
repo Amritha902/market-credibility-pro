@@ -1,0 +1,14 @@
+{
+  "ITC": {
+    "notes": "No adjudicated false claims recorded in local set.",
+    "recent_events": [
+      {"date": "2024-10-01", "type": "filing", "source": "NSE"}
+    ]
+  },
+  "NOVAPHARM": {
+    "notes": "One distributor rumor flagged by exchange surveillance in 2023.",
+    "recent_events": [
+      {"date": "2023-07-14", "type": "rumor_flag", "source": "BSE surveillance"}
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "pharma": {
+    "keywords": ["drug", "fda", "approval", "cdsco", "clinical", "trial", "nda", "ema", "us fda"],
+    "regulators": [
+      {"name": "US FDA – Drug Approvals", "url": "https://www.fda.gov/drugs/drug-approvals-and-databases"},
+      {"name": "CDSCO – Approvals", "url": "https://cdsco.gov.in/opencms/opencms/en/Approval/"},
+      {"name": "EMA – Medicines", "url": "https://www.ema.europa.eu/en/medicines"}
+    ]
+  },
+  "telecom": {
+    "keywords": ["spectrum", "license", "tower", "dot", "trai", "agr", "telecom"],
+    "regulators": [
+      {"name": "DoT", "url": "https://dot.gov.in/"},
+      {"name": "TRAI", "url": "https://trai.gov.in/"}
+    ]
+  },
+  "corporate": {
+    "keywords": ["announcement", "quarterly", "results", "dividend", "merger", "partnership", "ipo", "corporate action"],
+    "regulators": [
+      {"name": "SEBI", "url": "https://www.sebi.gov.in/"},
+      {"name": "BSE – Corporate Filings", "url": "https://www.bseindia.com/corporates/ann.html"},
+      {"name": "NSE – Announcements", "url": "https://www.nseindia.com/companies-listing/corporate-filings-announcements"}
+    ]
+  },
+  "legal": {
+    "keywords": ["supreme court", "high court", "order", "petition", "appeal", "agr dues", "judgment"],
+    "regulators": [
+      {"name": "Supreme Court of India", "url": "https://main.sci.gov.in/"},
+      {"name": "PIB Press Releases", "url": "https://pib.gov.in/Allrel.aspx"}
+    ]
+  },
+  "identity": {
+    "keywords": ["lei", "isin", "cin", "registration", "advisor", "ra", "ia", "merchant banker"],
+    "regulators": [
+      {"name": "GLEIF LEI Search", "url": "https://search.gleif.org/#/search/"},
+      {"name": "India LEI (CCIL)", "url": "https://www.ccilindia-lei.co.in/"},
+      {"name": "NSDL – ISIN", "url": "https://nsdl.co.in/industries/isin-list.php"},
+      {"name": "MCA – CIN", "url": "https://www.mca.gov.in/"}
+    ]
+  }
+}

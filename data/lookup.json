@@ -1,0 +1,20 @@
+{
+  "ITC": {
+    "domain": "FMCG",
+    "ISIN": "INE154A01025",
+    "registry": "NSE/BSE",
+    "valid_till": null
+  },
+  "Novapharm": {
+    "domain": "Pharma",
+    "LEI": "335800NOVAPHARM001",
+    "registry": "FDA/CDSCO",
+    "valid_till": "2026-12-31"
+  },
+  "Tata Motors": {
+    "domain": "Automobile",
+    "ISIN": "INE155A01022",
+    "registry": "NSE/BSE",
+    "valid_till": null
+  }
+}

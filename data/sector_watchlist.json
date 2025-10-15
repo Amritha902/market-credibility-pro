@@ -1,0 +1,86 @@
+{
+  "Pharma": [
+    "SUNPHARMA.BSE",
+    "DRREDDY.BSE",
+    "CIPLA.BSE",
+    "DIVISLAB.BSE",
+    "AUROPHARMA.BSE",
+    "BIOCON.BSE"
+  ],
+  "Telecom": [
+    "BHARTIARTL.BSE",
+    "IDEA.BSE",
+    "MTNL.BSE",
+    "RELIANCE.BSE"
+  ],
+  "Energy": [
+    "RELIANCE.BSE",
+    "ONGC.BSE",
+    "BPCL.BSE",
+    "IOC.BSE",
+    "NTPC.BSE",
+    "GAIL.BSE",
+    "ADANIGREEN.BSE"
+  ],
+  "IT Services": [
+    "TCS.BSE",
+    "INFY.BSE",
+    "WIPRO.BSE",
+    "TECHM.BSE",
+    "HCLTECH.BSE",
+    "MPHASIS.BSE",
+    "LTIM.BSE"
+  ],
+  "Banking": [
+    "HDFCBANK.BSE",
+    "ICICIBANK.BSE",
+    "KOTAKBANK.BSE",
+    "AXISBANK.BSE",
+    "SBIN.BSE",
+    "PNB.BSE",
+    "YESBANK.BSE",
+    "BANKBARODA.BSE"
+  ],
+  "Automobile": [
+    "TATAMOTORS.BSE",
+    "MARUTI.BSE",
+    "M&M.BSE",
+    "HEROMOTOCO.BSE",
+    "BAJAJ-AUTO.BSE",
+    "ASHOKLEY.BSE",
+    "EICHERMOT.BSE"
+  ],
+  "Metals": [
+    "TATASTEEL.BSE",
+    "JSWSTEEL.BSE",
+    "HINDALCO.BSE",
+    "VEDL.BSE",
+    "NMDC.BSE",
+    "SAIL.BSE",
+    "JINDALSTEL.BSE"
+  ],
+  "FMCG": [
+    "ITC.BSE",
+    "HINDUNILVR.BSE",
+    "DABUR.BSE",
+    "NESTLEIND.BSE",
+    "BRITANNIA.BSE",
+    "GODREJCP.BSE",
+    "MARICO.BSE"
+  ],
+  "Cement": [
+    "ULTRACEMCO.BSE",
+    "SHREECEM.BSE",
+    "AMBUJACEM.BSE",
+    "ACC.BSE",
+    "DALBHARAT.BSE",
+    "JKCEMENT.BSE"
+  ],
+  "Infrastructure": [
+    "L&T.BSE",
+    "ADANIPORTS.BSE",
+    "IRB.BSE",
+    "DLF.BSE",
+    "NBCC.BSE"
+  ]
+}
